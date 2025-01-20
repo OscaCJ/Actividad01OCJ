@@ -1,0 +1,30 @@
+.home__contenido {
+     width: 80%;
+     padding-right: 25px;
+     padding-left: 25px;
+     padding-bottom: 25px;
+     font-size: 1.5em;
+     font-family: Calibri;
+     font-weight: lighter;
+     text-align: justify;
+}
+
+.home__parrafo{
+     
+    
+}
+
+.home__contenedor {
+     background-color: #FAE7C2;
+}
+.home__header{
+     padding-left: 25px;
+     text-align: center;
+}
+.home__titulo{
+    
+}
+.home__subtitulo{
+     
+}
+

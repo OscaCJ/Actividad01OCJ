@@ -1,0 +1,9 @@
+.MainApp__Header{
+  position: fixed;
+  width: 100%;
+}
+
+.MainApp__Body{
+  padding-top: 17%;
+  width: 100%;
+}
