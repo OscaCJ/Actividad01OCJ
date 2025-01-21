@@ -1,0 +1,18 @@
+.container__image{
+    width: 100%;
+    height: 20%;
+	background: url("../Assets/Banner1.jpg");
+}
+
+.container__label{
+    display: inline;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.container{
+    width: 100%;
+    position:fixed;
+    bottom: 0;
+}
